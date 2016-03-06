@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A6592705-C208-4EDF-8713-DCC2690091A5}"
 	ProjectSection(SolutionItems) = preProject
 		Grant.sql = Grant.sql
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
